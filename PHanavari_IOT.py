@@ -1,3 +1,21 @@
+'''
+
+APM:
+
+
+
+Salam arz shdo daryaft shdo besiar awli
+
+
+
+
+'''
+
+
+
+
+
+
 import paho.mqtt.client as mqtt
 import time
 import adafruit_dht as dht
